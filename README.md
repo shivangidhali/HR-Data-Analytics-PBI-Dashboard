@@ -10,15 +10,19 @@ HR departments analyze employee attrition trends and workforce insightes.
 1- Attrition by Age
  - Highest attrition in 26-35 age, followed by 18-25
  - Younger employees leaving more —→ Career growth issues
+   
 2- Attrition by Salary Slab
  - Low salary groups show highest attrition, under 5k salary group leaves maximum
  - Salary dissatisfaction aapears major reason
+   
 3- Attrition by Education
  - Life Science and Medical backgrounds have highest attrition
  - These employees may find better market opportunities outside.
+   
 4- Attrition by Job Roles
  - Lab Technician and Sales Executive highest exits
  - Maybe These Job Roles generally stressful and lower pay
+   
 5- Attrition by Gender
  - Male attrition significantly higher than female
  - Possibly due to job pressure or field roles.
